@@ -1,2 +1,2 @@
 # Listas-de-exercicio-
-listas tri
+Listas de exercícios da matérias de Construção de algoritmos 
