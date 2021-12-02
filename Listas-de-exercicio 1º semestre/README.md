@@ -1,2 +1,2 @@
 # Listas-de-exercicio-
-listas
+listas tri
